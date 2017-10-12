@@ -1,0 +1,237 @@
+14:35:25.929 352  [main] DEBUG org.ow2.chameleon - interactive mode enabled
+14:35:25.972 395  [main] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications with a polling period of 2000
+14:35:26.751 1174 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/autoconf-resource-processor-1.0.4.jar
+14:35:26.766 1189 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/autoload.res.processor-1.2.7-SNAPSHOT.jar
+14:35:26.774 1197 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/deployment-admin-impl-1.0.4.jar
+14:35:26.782 1205 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.configadmin-1.8.4.jar
+14:35:26.796 1219 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.gogo.command-0.14.0.jar
+14:35:26.806 1229 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.gogo.runtime-0.16.2.jar
+14:35:26.812 1235 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.ipojo-1.12.1.jar
+14:35:26.820 1243 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.ipojo.gogo-1.12.1.jar
+14:35:26.826 1249 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/org.apache.felix.ipojo.handler.whiteboard-1.6.0.jar
+14:35:26.834 1257 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/ow2-util-i18n-1.0.36.jar
+14:35:26.837 1260 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/ow2-util-log-1.0.36.jar
+14:35:26.842 1265 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/shelbie-api-2.0.0-RC1.jar
+14:35:26.849 1272 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/shelbie-builtin-commands-2.0.0-RC1.jar
+14:35:26.861 1284 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/shelbie-core-2.0.0-RC1.jar
+14:35:26.870 1293 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/shelbie-ipojo-commands-2.1.jar
+14:35:26.875 1298 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/core/shelbie-startup-console-2.0.0-RC1.jar
+14:35:26.878 1301 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle de.akquinet.gomobile.deployment.rp.autoconf
+14:35:26.890 1313 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle autoload.res.processor
+14:35:26.895 1318 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle de.akquinet.gomobile.deploymentadmin
+14:35:26.896 1319 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.configadmin
+14:35:26.943 1366 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.gogo.command
+14:35:26.963 1386 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.gogo.runtime
+14:35:27.003 1426 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo
+14:35:27.067 1490 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo.gogo
+14:35:27.070 1493 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo.handler.whiteboard
+14:35:27.072 1495 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.bundles.ow2-util-i18n
+14:35:27.073 1496 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.bundles.ow2-util-log
+14:35:27.086 1509 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.api
+14:35:27.091 1514 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.commands.shelbie-builtin-commands
+14:35:27.094 1517 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.core
+14:35:27.095 1518 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.commands.shelbie-ipojo-commands
+14:35:27.097 1520 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.startup-console
+14:35:27.099 1522 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime, /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications]
+14:35:27.100 1523 [main] DEBUG o.o.c.c.activators.DirectoryMonitor - No file monitoring for runtime
+14:35:27.100 1523 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for applications
+14:35:27.544 1967 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@292b08d6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:29.226 3649 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@292b08d6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:29.291 3714 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@2c1b9e4b for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:29.292 3715 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@2c1b9e4b for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:30.648 5071 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+14:35:33.525 7948 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+14:35:33.525 7948 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf with a polling period of 2000
+14:35:33.527 7950 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@292b08d6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:33.527 7950 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@2c1b9e4b for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:33.541 7964 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@67b0db36 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:33.542 7965 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@67b0db36 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:33.543 7966 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@67b0db36 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:33.554 7977 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf/application.conf
+14:35:33.554 7977 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT
+14:35:33.554 7977 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+14:35:33.783 8206 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+14:35:34.805 9228 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@2a2848c6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:34.823 9246 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.3.1.jar : bootstrap-3.3.1
+14:35:34.927 9350 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/bootstrap-3.3.1/bootstrap/3.3.1
+14:35:34.935 9358 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-2.0.0-1.jar : handlebars-2.0.0-1
+14:35:34.945 9368 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/handlebars-2.0.0-1/handlebars/2.0.0-1
+14:35:34.949 9372 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.1.jar : jquery-2.1.1
+14:35:34.956 9379 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/jquery-2.1.1/jquery/2.1.1
+14:35:34.957 9380 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.11.jar : jquery-mousewheel-3.1.11
+14:35:34.959 9382 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/jquery-mousewheel-3.1.11/jquery-mousewheel/3.1.11
+14:35:34.961 9384 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.8.3.jar : momentjs-2.8.3
+14:35:34.976 9399 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/momentjs-2.8.3/momentjs/2.8.3
+14:35:34.983 9406 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.17.8.jar : tablesorter-2.17.8
+14:35:35.085 9508 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/chameleon-cache/bundle80/data/webjars/tablesorter-2.17.8/tablesorter/2.17.8
+14:35:35.088 9511 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@2a2848c6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:35.089 9512 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@2a2848c6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:35.135 9558 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - RoSe.configurator is starting
+14:35:35.142 9565 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@20a5ff3a for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:35.143 9566 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Start to load configuration file: rose-conf-simulator_REST_0.json
+14:35:35.207 9630 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - The RoseMachine server1 has successfully started
+14:35:35.208 9631 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Machine: server1 OutConnection is open: 0 services are exported.
+14:35:35.209 9632 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Configuration rose-conf-simulator_REST_0.json successfully handled
+14:35:35.210 9633 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@20a5ff3a for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:35.210 9633 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@20a5ff3a for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:35.638 10061 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@1cd92503 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:35.639 10062 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@1cd92503 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:35.639 10062 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@1cd92503 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:35.702 10125 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts with a polling period of 2000
+14:35:35.703 10126 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@292b08d6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.703 10126 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@2c1b9e4b for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.704 10127 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@67b0db36 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.704 10127 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@2a2848c6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.704 10127 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@20a5ff3a for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.705 10128 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@1cd92503 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:35.937 10360 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+14:35:36.134 10557 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+14:35:36.135 10558 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates
+14:35:36.136 10559 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates with a polling period of 2000
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@292b08d6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@2c1b9e4b for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@67b0db36 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@2a2848c6 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@20a5ff3a for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.137 10560 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@1cd92503 for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.141 10564 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@703107df for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:36.141 10564 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@703107df for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:36.142 10565 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@703107df for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:36.143 10566 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@703107df for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:36.143 10566 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@703107df for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:35:36.161 10584 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+14:35:36.177 10600 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.frontend.services.rest.MapRemoteServiceImpl@13563963
+14:35:36.232 10655 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.ZoneREST@58cd10ae
+14:35:36.239 10662 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.access.impl.AccessManagerRemote@4d27fe0
+14:35:36.243 10666 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.DeviceREST@7be9c084
+14:35:36.247 10670 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.ClockREST@77640edf
+14:35:36.251 10674 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.iCasaREST@50a54227
+14:35:36.252 10675 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@65814fc2
+14:35:36.254 10677 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.application.remote.ApplicationREST@2f13ade4
+14:35:36.256 10679 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@6287d094
+14:35:36.262 10685 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.PersonREST@6dd38470
+14:35:36.268 10691 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.RemoteShell@40938a02
+14:35:36.270 10693 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.ScriptPlayerREST@5f18399c
+14:35:36.272 10695 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.SimulationREST@416ebf0c
+14:35:36.304 10727 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@6ce1bd9a
+14:35:36.319 10742 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://80.0:0/templates/assets/list.thl.html
+14:35:36.334 10757 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/bundles.thl.html
+14:35:36.343 10766 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/controllers.thl.html
+14:35:36.352 10775 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/dashboard.thl.html
+14:35:36.362 10785 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/executors.thl.html
+14:35:36.371 10794 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/ipojo.thl.html
+14:35:36.380 10803 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/layout.thl.html
+14:35:36.393 10816 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/loggers.thl.html
+14:35:36.403 10826 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/login.thl.html
+14:35:36.413 10836 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/routes.thl.html
+14:35:36.424 10847 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/services.thl.html
+14:35:36.433 10856 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/terminal.thl.html
+14:35:36.442 10865 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://99.0:0/templates/monitor/tiles.thl.html
+14:35:36.479 10902 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.dashboard.servlet.SimulatorMainPage@43b48626
+14:35:36.503 10926 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.dashboard.servlet.SimulatorMap@635c8878
+14:35:36.541 10964 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.executors.Creator - Creating executor wisdom-system-executor
+14:35:36.564 10987 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.executors.Creator - Creating scheduler wisdom-system-scheduler
+14:35:36.655 11078 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Reconfiguring the Wisdom Mailer
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Configuring Wisdom Mailer with:
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtps.quitwait: false
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.port: 465
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.port: 465
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.class: javax.net.ssl.SSLSocketFactory
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.host: smtp.gmail.com
+14:35:36.660 11083 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.auth: true
+14:35:36.661 11084 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	username: icasa.orange@gmail.com
+14:35:36.662 11085 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	password set but not displayed
+14:35:36.662 11085 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	from: icasa.orange@gmail.com
+14:35:36.664 11087 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Configuring Wisdom Mailer with:
+14:35:36.664 11087 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtps.quitwait: false
+14:35:36.664 11087 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.port: 465
+14:35:36.664 11087 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.port: 465
+14:35:36.664 11087 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.class: javax.net.ssl.SSLSocketFactory
+14:35:36.688 11111 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.host: smtp.gmail.com
+14:35:36.688 11111 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.auth: true
+14:35:36.689 11112 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	username: icasa.orange@gmail.com
+14:35:36.689 11112 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	password set but not displayed
+14:35:36.690 11113 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	from: icasa.orange@gmail.com
+14:35:36.781 11204 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module ManagedExecutorService Module
+14:35:36.806 11229 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+14:35:36.818 11241 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@d37d5e5
+14:35:36.835 11258 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@73dde0fe
+14:35:36.878 11301 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@4db8e44b
+14:35:36.912 11335 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@44eeedef
+14:35:36.952 11375 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@106c5445
+14:35:37.113 11536 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@20f6a580
+14:35:37.148 11571 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@75e1043
+14:35:38.059 12482 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+14:35:38.227 12650 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+14:35:38.257 12680 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+14:35:38.333 12756 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+14:35:38.369 12792 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+14:35:38.390 12813 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+14:35:38.448 12871 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.executors.ExecutorExtension@3cca2256
+14:35:38.512 12935 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@352af3c5
+14:35:38.570 12993 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@749e7411
+14:35:38.630 13053 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.EventBroadcast@584253ab
+14:35:39.000 13423 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  Scheduled Runnable 1024
+14:35:39.034 13457 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  Scheduled Runnable 1026
+14:35:39.060 13483 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - The dimension service is starting
+14:35:39.157 13580 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from de.uni.mannheim.adaptation.icasa.LocalAdaptationAgent@6a039f9e
+14:35:39.198 13621 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@cf058c for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/runtime.
+14:35:39.199 13622 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@cf058c for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications.
+14:35:39.201 13624 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@cf058c for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/conf.
+14:35:39.203 13626 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@cf058c for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/scripts.
+14:35:39.205 13628 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@cf058c for directory /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/templates.
+14:36:09.908 44331 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - New web socket connection org.vertx.java.core.http.impl.DefaultServerWebSocket@2536e59d, /icasa/websocket/event
+14:36:09.909 44332 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Adding web socket on /icasa/websocket/event bound to org.wisdom.framework.vertx.Socket@2536e59d
+14:38:29.969 184392 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - Web Socket closed org.vertx.java.core.http.impl.DefaultServerWebSocket@2536e59d, /icasa/websocket/event
+14:38:29.971 184394 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Removing web socket on /icasa/websocket/event bound to /icasa/websocket/event
+15:27:43.266 3137689 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from de.uni.mannheim.adaptation.icasa.LocalAdaptationAgent@6a039f9e
+15:27:43.456 3137879 [FelixStartLevel] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - The dimension service is stopping
+15:27:43.460 3137883 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [fr.liglab.adele.icasa.service.zone.dimension.calculator.impl.ZoneDimensionImpl-0] The dependency is not optional, however no service object can be injected in m_preferences -> fr.liglab.adele.icasa.service.preferences.Preferences
+15:27:43.521 3137944 [FelixStartLevel] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  UnScheduled Runnable 1026
+15:27:43.540 3137963 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasaPreferences-0] The dependency is not optional, however no service object can be injected in preferenceService -> org.ow2.chameleon.sharedprefs.SharedPreferencesService
+15:27:43.638 3138061 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@352af3c5
+15:27:43.674 3138097 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.executors.ExecutorExtension@3cca2256
+15:27:43.735 3138158 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.terminal.WisitShellController@749e7411
+15:27:43.760 3138183 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.EventBroadcast@584253ab
+15:27:43.774 3138197 [FelixStartLevel] INFO  o.w.f.vertx.WisdomVertxServer - Stopping the vert.x server
+15:27:43.785 3138208 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - The HTTP server has been stopped
+15:27:43.861 3138284 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/bundles.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:43.885 3138308 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@44eeedef
+15:27:43.926 3138349 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/controllers.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:43.954 3138377 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@20f6a580
+15:27:43.964 3138387 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/dashboard.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:43.970 3138393 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/executors.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:43.980 3138403 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/ipojo.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:43.996 3138419 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@73dde0fe
+15:27:44.003 3138426 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/layout.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.009 3138432 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/loggers.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.024 3138447 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.logger.LoggerExtension@4db8e44b
+15:27:44.036 3138459 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/login.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.048 3138471 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.MonitorCenter@d37d5e5
+15:27:44.052 3138475 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module org.wisdom.monitor.service.MonitorExtension
+15:27:44.057 3138480 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/routes.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.072 3138495 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@75e1043
+15:27:44.081 3138504 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/services.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.103 3138526 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@106c5445
+15:27:44.111 3138534 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/terminal.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.116 3138539 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://99.0:0/templates/monitor/tiles.thl.html from org.wisdom.framework.wisdom.monitor
+15:27:44.156 3138579 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module ManagedExecutorService Module
+15:27:44.524 3138947 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.dashboard.servlet.SimulatorMainPage@43b48626
+15:27:44.543 3138966 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.dashboard.servlet.SimulatorMap@635c8878
+15:27:45.594 3140017 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://80.0:0/templates/assets/list.thl.html from org.wisdom-framework.resource-controller
+15:27:45.596 3140019 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateTracker-0] The dependency is not optional, however no service object can be injected in engine -> org.wisdom.template.thymeleaf.ThymeleafTemplateCollector
+15:27:45.621 3140044 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetsSingleton@6ce1bd9a
+15:27:45.875 3140298 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.PersonREST@6dd38470
+15:27:45.891 3140314 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.RemoteShell@40938a02
+15:27:45.913 3140336 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.ScriptPlayerREST@5f18399c
+15:27:45.959 3140382 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.SimulationREST@416ebf0c
+15:27:47.677 3142100 [FelixStartLevel] INFO  o.o.u.log.impl.osgi.LoggerService - The RoseMachine server1 has been stoped
+15:27:47.693 3142116 [FelixStartLevel] INFO  o.o.u.log.impl.osgi.LoggerService - RoSe.configurator is stopping
+15:27:48.117 3142540 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [ICasaTrackingInterceptor-0] The dependency is not optional, however no service object can be injected in contextManager -> fr.liglab.adele.icasa.ContextManager
+15:27:49.618 3144041 [FelixStartLevel] WARN  o.o.c.core.utils.FrameworkManager - Shelbie system Service leaving - shutting down sequence detected
+15:27:49.618 3144041 [FelixStartLevel] INFO  org.ow2.chameleon - Stopping Chameleon
+15:27:49.620 3144043 [FelixStartLevel] DEBUG o.o.c.c.activators.DirectoryMonitor - Stopping file monitoring of /Users/mpfannem/Development/self-organizing_systems_hws17/icasa.teaching.distribution-1.2.7-SNAPSHOT/applications
+15:27:51.016 3145439 [FelixStartLevel] DEBUG o.o.c.c.activators.DirectoryMonitor - File monitoring stopped
+15:27:52.022 3146445 [FelixStartLevel] INFO  org.ow2.chameleon - Chameleon stopped
+15:27:52.098 3146521 [Thread-0] INFO  org.ow2.chameleon - Stopping Chameleon
+15:27:52.109 3146532 [Thread-0] INFO  org.ow2.chameleon - Chameleon stopped

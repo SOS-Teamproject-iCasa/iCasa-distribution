@@ -1,0 +1,9 @@
+
+# Mac-specific
+.DS_Store
+
+# exclude individual settings
+.classpath
+.project
+.settings/*
+.config-admin

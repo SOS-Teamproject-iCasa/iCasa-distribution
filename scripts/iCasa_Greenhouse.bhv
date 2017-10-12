@@ -1,0 +1,135 @@
+<behavior factor="1">
+
+	<!-- Zone Section -->
+
+	<create-zone  id ="Tulips_1" leftX ="755" topY ="39" bottomZ ="0" X-Length ="614" Y-Length ="834" Z-Length ="179"/>
+	<add-zone-variable zoneId="Tulips_1" variable="Temperature" />
+	<modify-zone-variable zoneId="Tulips_1" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="Tulips_1" variable="Area" />
+	<modify-zone-variable zoneId="Tulips_1" variable="Area" value="100.36690895452921" />
+	<add-zone-variable zoneId="Tulips_1" variable="Electricity" />
+	<modify-zone-variable zoneId="Tulips_1" variable="Electricity" value="200.0" />
+	<add-zone-variable zoneId="Tulips_1" variable="Volume" />
+	<modify-zone-variable zoneId="Tulips_1" variable="Volume" value="251.5194780516133" />
+	<add-zone-variable zoneId="Tulips_1" variable="Illuminance" />
+	<modify-zone-variable zoneId="Tulips_1" variable="Illuminance" value="2161.0063965897825" />
+
+	<create-zone  id ="Roses_1" leftX ="100" topY ="41" bottomZ ="0" X-Length ="608" Y-Length ="833" Z-Length ="179"/>
+	<add-zone-variable zoneId="Roses_1" variable="Temperature" />
+	<modify-zone-variable zoneId="Roses_1" variable="Temperature" value="293.15" />
+	<add-zone-variable zoneId="Roses_1" variable="Area" />
+	<modify-zone-variable zoneId="Roses_1" variable="Area" value="99.26695056367498" />
+	<add-zone-variable zoneId="Roses_1" variable="Electricity" />
+	<modify-zone-variable zoneId="Roses_1" variable="Electricity" value="200.0" />
+	<add-zone-variable zoneId="Roses_1" variable="Volume" />
+	<modify-zone-variable zoneId="Roses_1" variable="Volume" value="248.7629822779765" />
+	<add-zone-variable zoneId="Roses_1" variable="Illuminance" />
+	<modify-zone-variable zoneId="Roses_1" variable="Illuminance" value="2176.0873738905448" />
+
+	<!-- Device Section -->
+
+	<create-device id="Photometer-64b0b0e35a" type="iCasa.Photometer" />
+	<move-device-zone deviceId="Photometer-64b0b0e35a" zoneId="Roses_1" />
+
+	<create-device id="Thermometer-86be56f240" type="iCasa.Thermometer" />
+	<move-device-zone deviceId="Thermometer-86be56f240" zoneId="Roses_1" />
+
+	<create-device id="DimmerLight-8cf5011b47" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-8cf5011b47" zoneId="Roses_1" />
+
+	<create-device id="Cooler-2c87608d14" type="iCasa.Cooler" />
+	<move-device-zone deviceId="Cooler-2c87608d14" zoneId="Roses_1" />
+
+	<create-device id="COGasSensor-7f44184847" type="iCasa.COGasSensor" />
+	<move-device-zone deviceId="COGasSensor-7f44184847" zoneId="Roses_1" />
+
+	<create-device id="PresenceSensor-266394d4f1" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-266394d4f1" zoneId="Roses_1" />
+
+	<create-device id="BinaryLight-CO-Roses_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-CO-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="BinaryLight-CO2-Roses_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-CO2-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="BinaryLight-Gardener-Roses_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-Gardener-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="Siren-CO2-Roses_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-CO2-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="Siren-Burglar-Roses_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-Burglar-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="Siren-CO-Roses_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-CO-Roses_1" zoneId="Roses_1" />
+
+	<create-device id="Heater-c4af95cc5e" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-c4af95cc5e" zoneId="Roses_1" />
+
+
+
+	<create-device id="Sprinkler-c9ee30113c" type="iCasa.Sprinkler" />
+	<move-device-zone deviceId="Sprinkler-c9ee30113c" zoneId="Roses_1" />
+
+	<create-device id="CO2GasSensor-29fbf64fe9" type="iCasa.CO2GasSensor" />
+	<move-device-zone deviceId="CO2GasSensor-29fbf64fe9" zoneId="Roses_1" />
+
+	<create-device id="FloodSensor-e8d83fe7eb" type="iCasa.FloodSensor" />
+	<move-device-zone deviceId="FloodSensor-e8d83fe7eb" zoneId="Roses_1" />
+
+	<create-device id="DimmerLight-1adf1ed1b4" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-1adf1ed1b4" zoneId="Tulips_1" />
+
+	<create-device id="CO2GasSensor-943f326375" type="iCasa.CO2GasSensor" />
+	<move-device-zone deviceId="CO2GasSensor-943f326375" zoneId="Tulips_1" />
+
+	<create-device id="Thermometer-9e96e308ce" type="iCasa.Thermometer" />
+	<move-device-zone deviceId="Thermometer-9e96e308ce" zoneId="Tulips_1" />
+
+	<create-device id="PresenceSensor-210d7fe648" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-210d7fe648" zoneId="Tulips_1" />
+
+	<create-device id="FloodSensor-63e7a36f07" type="iCasa.FloodSensor" />
+	<move-device-zone deviceId="FloodSensor-63e7a36f07" zoneId="Tulips_1" />
+
+	<create-device id="Photometer-baadbbaf67" type="iCasa.Photometer" />
+	<move-device-zone deviceId="Photometer-baadbbaf67" zoneId="Tulips_1" />
+
+	<create-device id="COGasSensor-9270c1e43a" type="iCasa.COGasSensor" />
+	<move-device-zone deviceId="COGasSensor-9270c1e43a" zoneId="Tulips_1" />
+
+	<create-device id="Sprinkler-22362844df" type="iCasa.Sprinkler" />
+	<move-device-zone deviceId="Sprinkler-22362844df" zoneId="Tulips_1" />
+
+	<create-device id="Cooler-840e7bda53" type="iCasa.Cooler" />
+	<move-device-zone deviceId="Cooler-840e7bda53" zoneId="Tulips_1" />
+
+	<create-device id="Heater-1e790e255d" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-1e790e255d" zoneId="Tulips_1" />
+
+	<create-device id="BinaryLight-Gardener-Tulips_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-Gardener-Tulips_1" zoneId="Tulips_1" />
+
+	<create-device id="BinaryLight-CO2-Tulips_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-CO2-Tulips_1" zoneId="Tulips_1" />
+
+	<create-device id="BinaryLight-CO-Tulips_1" type="iCasa.BinaryLight" />
+	<move-device-zone deviceId="BinaryLight-CO-Tulips_1" zoneId="Tulips_1" />
+
+	<create-device id="Siren-CO2-Tulips_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-CO2-Tulips_1" zoneId="Tulips_1" />
+
+	<create-device id="Siren-CO-Tulips_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-CO-Tulips_1" zoneId="Tulips_1" />
+
+	<create-device id="Siren-Burglar-Tulips_1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-Burglar-Tulips_1" zoneId="Tulips_1" />
+
+
+	<!-- Person Section -->
+
+	<create-person id="Hildegard" type="Old woman" />
+	<move-person-zone personId="Hildegard" zoneId="Roses_1" />
+
+</behavior>
