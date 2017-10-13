@@ -1,0 +1,70 @@
+<behavior startdate="27/10/2017-06:00:00" factor="500">
+
+	<!-- Zone Section -->
+
+	<create-zone  id ="Outside_Area" leftX ="76" topY ="0" X-Length ="313" Y-Length ="206"/>
+	<add-zone-variable zoneId="Outside_Area" variable="Temperature" />
+	<modify-zone-variable zoneId="Outside_Area" variable="Temperature" value="300" />
+	<add-zone-variable zoneId="Outside_Area" variable="Illuminance" />
+	<modify-zone-variable zoneId="Outside_Area" variable="Illuminance" value="2160" />
+
+	<create-zone  id ="Play_Area" leftX ="138" topY ="210" X-Length ="251" Y-Length ="204"/>
+	<add-zone-variable zoneId="Play_Area" variable="Temperature" />
+	<modify-zone-variable zoneId="Play_Area" variable="Temperature" value="296" />
+	<add-zone-variable zoneId="Play_Area" variable="Illuminance" />
+	<modify-zone-variable zoneId="Play_Area" variable="Illuminance" value="2160" />
+	
+	<create-zone  id ="Dining_Area" leftX ="395" topY ="87" X-Length ="203" Y-Length ="328"/>
+	<add-zone-variable zoneId="Dining_Area" variable="Temperature" />
+	<modify-zone-variable zoneId="Dining_Area" variable="Temperature" value="296" />
+	<add-zone-variable zoneId="Dining_Area" variable="Illuminance" />
+	<modify-zone-variable zoneId="Dining_Area" variable="Illuminance" value="2160" />
+	
+	<create-zone  id ="Cloakroom" leftX ="354" topY ="416" X-Length ="300" Y-Length ="127"/>
+	<add-zone-variable zoneId="Cloakroom" variable="Temperature" />
+	<modify-zone-variable zoneId="Cloakroom" variable="Temperature" value="296" />
+	<add-zone-variable zoneId="Cloakroom" variable="Illuminance" />
+	<modify-zone-variable zoneId="Cloakroom" variable="Illuminance" value="2160" />
+	
+	
+	<!-- Device Section -->
+
+	<create-device id="PresenceSensor-1" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-1" zoneId="Outside_Area" />
+	<create-device id="Siren-1" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-1" zoneId="Outside_Area" />
+	<create-device id="Sprinkler-1" type="iCasa.Sprinkler" />
+	<move-device-zone deviceId="Sprinkler-1" zoneId="Outside_Area" />
+
+	
+	<create-device id="PresenceSensor-2" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-2" zoneId="Play_Area" />
+	<create-device id="Heater-2" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-2" zoneId="Play_Area" />
+	<create-device id="DimmerLight-2" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-2" zoneId="Play_Area" />
+
+	<create-device id="PresenceSensor-3" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-3" zoneId="Dining_Area" />
+	<create-device id="Heater-3" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-3" zoneId="Dining_Area" />
+	<create-device id="DimmerLight-3" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-3" zoneId="Dining_Area" />
+	
+	<create-device id="PresenceSensor-4" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-4" zoneId="Cloakroom" />
+	<create-device id="Heater-4" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-4" zoneId="Cloakroom" />
+	<create-device id="DimmerLight-4" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-4" zoneId="Cloakroom" />
+
+
+	<!-- Person Section -->
+
+	<create-person id="Emma" type="Girl" />
+	<move-person-zone personId="Emma" zoneId="Play_Area" />
+	
+	<create-person id="Paul" type="Boy" />
+	<move-person-zone personId="Paul" zoneId="Outside_Area" />
+
+</behavior>

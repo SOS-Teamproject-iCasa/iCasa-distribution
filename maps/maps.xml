@@ -2,11 +2,14 @@
 <list>
    <map>
       <string name="id">default</string>
-      <string name="name">House</string>
-      <string name="description">Default House</string>
+      <!-- <string name="name">House</string>
+      <string name="description">Default House</string> -->
       <string name="gatewayURL">http://localhost:9000</string>
       <!--<string name="imgFile">house.png</string>-->
-	  <string name="imgFile">iCasa.png</string>
+	  <!--<string name="imgFile">iCasa.png</string>  -->
+	  <string name="name">Kindergarten</string>
+      <string name="description">Default Kindergarten</string>
+	  <string name="imgFile">kindergarten.png</string>
       <string name="libs">default</string>
    </map>
 </list>
