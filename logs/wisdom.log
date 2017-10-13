@@ -3256,3 +3256,331 @@ java.lang.Exception: Invalid parameters: {"leftX":"140","topY":"210","X-Length":
 13:06:29.486 81363 [FelixStartLevel] INFO  org.ow2.chameleon - Chameleon stopped
 13:06:29.624 81501 [Thread-0] INFO  org.ow2.chameleon - Stopping Chameleon
 13:06:29.636 81513 [Thread-0] INFO  org.ow2.chameleon - Chameleon stopped
+13:11:33.149 5332 [main] DEBUG org.ow2.chameleon - interactive mode enabled
+13:11:33.184 5367 [main] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications with a polling period of 2000
+13:11:33.523 5706 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/ow2-util-log-1.0.36.jar
+13:11:33.540 5723 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.gogo.command-0.14.0.jar
+13:11:33.548 5731 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/shelbie-builtin-commands-2.0.0-RC1.jar
+13:11:33.553 5736 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.configadmin-1.8.4.jar
+13:11:33.558 5741 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.ipojo.gogo-1.12.1.jar
+13:11:33.562 5745 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.ipojo-1.12.1.jar
+13:11:33.571 5754 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/autoload.res.processor-1.2.7-SNAPSHOT.jar
+13:11:33.577 5760 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.ipojo.handler.whiteboard-1.6.0.jar
+13:11:33.583 5766 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/shelbie-ipojo-commands-2.1.jar
+13:11:33.589 5772 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/ow2-util-i18n-1.0.36.jar
+13:11:33.594 5777 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/shelbie-startup-console-2.0.0-RC1.jar
+13:11:33.600 5783 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/shelbie-api-2.0.0-RC1.jar
+13:11:33.607 5790 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/org.apache.felix.gogo.runtime-0.16.2.jar
+13:11:33.613 5796 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/deployment-admin-impl-1.0.4.jar
+13:11:33.619 5802 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/autoconf-resource-processor-1.0.4.jar
+13:11:33.642 5825 [main] DEBUG o.o.c.core.activators.CoreActivator - Installing bundle from /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/core/shelbie-core-2.0.0-RC1.jar
+13:11:33.653 5836 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.bundles.ow2-util-log
+13:11:33.696 5879 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.gogo.command
+13:11:33.723 5906 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.commands.shelbie-builtin-commands
+13:11:33.732 5915 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.configadmin
+13:11:33.770 5953 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo.gogo
+13:11:33.774 5957 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo
+13:11:33.837 6020 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle autoload.res.processor
+13:11:33.841 6024 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.ipojo.handler.whiteboard
+13:11:33.844 6027 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.commands.shelbie-ipojo-commands
+13:11:33.848 6031 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.bundles.ow2-util-i18n
+13:11:33.849 6032 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.startup-console
+13:11:33.853 6036 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.api
+13:11:33.854 6037 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.apache.felix.gogo.runtime
+13:11:33.875 6058 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle de.akquinet.gomobile.deploymentadmin
+13:11:33.877 6060 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle de.akquinet.gomobile.deployment.rp.autoconf
+13:11:33.880 6063 [main] DEBUG o.o.c.core.activators.CoreActivator - Starting bundle org.ow2.shelbie.core
+13:11:33.884 6067 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting watcher service configured for [/Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime, /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications]
+13:11:33.885 6068 [main] DEBUG o.o.c.c.activators.DirectoryMonitor - No file monitoring for runtime
+13:11:33.885 6068 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Starting file monitoring for applications
+13:11:34.104 6287 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@3754a4bf for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:35.847 8030 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@3754a4bf for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:35.880 8063 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1d1f7216 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:35.880 8063 [main] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1d1f7216 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:36.362 8545 [[iPOJO] pool-1-thread-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING] IPOJO-Main-Extender : 1 instances found in class org.wisdom.resources.AssetControllerConfiguration
+13:11:38.053 10236 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts with a polling period of 2000
+13:11:38.054 10237 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@3754a4bf for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:38.055 10238 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1d1f7216 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:38.388 10571 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - RoSe.configurator is starting
+13:11:38.407 10590 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@1a6b4eb for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:38.408 10591 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Start to load configuration file: rose-conf-simulator_REST_0.json
+13:11:38.485 10668 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - The RoseMachine server1 has successfully started
+13:11:38.486 10669 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Machine: server1 OutConnection is open: 0 services are exported.
+13:11:38.488 10671 [[iPOJO] pool-1-thread-1] INFO  o.o.u.log.impl.osgi.LoggerService - Configuration rose-conf-simulator_REST_0.json successfully handled
+13:11:38.489 10672 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@1a6b4eb for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:38.490 10673 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@1a6b4eb for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:40.190 12373 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Starting JSON and XML support services
+13:11:40.630 12813 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Enabling the watching of the configuration file
+13:11:40.631 12814 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf with a polling period of 2000
+13:11:40.633 12816 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@3754a4bf for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:40.633 12816 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1d1f7216 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:40.633 12816 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@1a6b4eb for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:40.667 12850 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@2148eec6 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:40.668 12851 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@2148eec6 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:40.669 12852 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@2148eec6 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:40.670 12853 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@2148eec6 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:40.671 12854 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Configuration file : /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf/application.conf
+13:11:40.671 12854 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Base directory : /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution
+13:11:40.671 12854 [[iPOJO] pool-1-thread-1] INFO  o.w.c.ApplicationConfigurationImpl - Wisdom running in DEV
+13:11:40.696 12879 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Reconfiguring the Wisdom Mailer
+13:11:40.702 12885 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Configuring Wisdom Mailer with:
+13:11:40.702 12885 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtps.quitwait: false
+13:11:40.703 12886 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.port: 465
+13:11:40.703 12886 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.port: 465
+13:11:40.704 12887 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.class: javax.net.ssl.SSLSocketFactory
+13:11:40.704 12887 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.host: smtp.gmail.com
+13:11:40.704 12887 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.auth: true
+13:11:40.705 12888 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	username: icasa.orange@gmail.com
+13:11:40.705 12888 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	password set but not displayed
+13:11:40.705 12888 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	from: icasa.orange@gmail.com
+13:11:40.707 12890 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - Configuring Wisdom Mailer with:
+13:11:40.707 12890 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtps.quitwait: false
+13:11:40.707 12890 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.port: 465
+13:11:40.707 12890 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.port: 465
+13:11:40.708 12891 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.socketFactory.class: javax.net.ssl.SSLSocketFactory
+13:11:40.708 12891 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.host: smtp.gmail.com
+13:11:40.708 12891 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	mail.smtp.auth: true
+13:11:40.708 12891 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	username: icasa.orange@gmail.com
+13:11:40.709 12892 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	password set but not displayed
+13:11:40.709 12892 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.mailer.Smtp - 	from: icasa.orange@gmail.com
+13:11:40.763 12946 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf configuration: mode=HTML5, ttl=1
+13:11:40.986 13169 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateTracker - Starting Thymeleaf template tracker
+13:11:41.056 13239 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.access.impl.AccessManagerRemote@6093b138
+13:11:41.103 13286 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.frontend.services.rest.MapRemoteServiceImpl@8f49be4
+13:11:41.114 13297 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.application.remote.ApplicationREST@4cdca4a3
+13:11:41.122 13305 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.RemoteShell@10d2e94a
+13:11:41.149 13332 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://56.0:0/templates/assets/list.thl.html
+13:11:41.191 13374 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/bundles.thl.html
+13:11:41.211 13394 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/controllers.thl.html
+13:11:41.232 13415 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/dashboard.thl.html
+13:11:41.255 13438 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/executors.thl.html
+13:11:41.283 13466 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/ipojo.thl.html
+13:11:41.304 13487 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/layout.thl.html
+13:11:41.324 13507 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/loggers.thl.html
+13:11:41.396 13579 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/login.thl.html
+13:11:41.415 13598 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/routes.thl.html
+13:11:41.432 13615 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/services.thl.html
+13:11:41.452 13635 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/terminal.thl.html
+13:11:41.470 13653 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.ThymeleafTemplateCollector - Thymeleaf template added for bundle://88.0:0/templates/monitor/tiles.thl.html
+13:11:41.526 13709 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Starting thymeleaf template deployer
+13:11:41.527 13710 [[iPOJO] pool-1-thread-1] INFO  o.w.t.t.tracker.TemplateDeployer - Template directory set to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates
+13:11:41.528 13711 [[iPOJO] pool-1-thread-1] DEBUG o.o.c.c.activators.DirectoryMonitor - Creating file alteration monitor for /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates with a polling period of 2000
+13:11:41.529 13712 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.BundleDeployer@3754a4bf for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:41.529 13712 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.core.activators.ConfigDeployer@1d1f7216 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:41.530 13713 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.ow2.chameleon.rose.configurator.Configurator@1a6b4eb for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:41.530 13713 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.configuration.ApplicationConfigurationImpl$ConfigurationDeployer@2148eec6 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:41.546 13729 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@50ae36d7 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:41.547 13730 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@50ae36d7 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:41.548 13731 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@50ae36d7 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:41.549 13732 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@50ae36d7 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:41.549 13732 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.template.thymeleaf.tracker.TemplateDeployer@50ae36d7 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:41.564 13747 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetsSingleton@76b324d5
+13:11:41.628 13811 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.executors.Creator - Creating executor wisdom-system-executor
+13:11:41.656 13839 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.executors.Creator - Creating scheduler wisdom-system-scheduler
+13:11:41.814 13997 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module ManagedExecutorService Module
+13:11:41.830 14013 [[iPOJO] pool-1-thread-1] INFO  o.w.c.jackson.JacksonSingleton - Adding JSON module org.wisdom.monitor.service.MonitorExtension
+13:11:41.838 14021 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.MonitorCenter@3d64ca50
+13:11:41.866 14049 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@213e6eab
+13:11:41.914 14097 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.logger.LoggerExtension@67a577b1
+13:11:41.956 14139 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@2b284b6e
+13:11:42.003 14186 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@19d52169
+13:11:42.110 14293 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@681bc4fb
+13:11:42.151 14334 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@f4d08ca
+13:11:42.478 14661 [[iPOJO] pool-1-thread-1] INFO  o.w.f.vertx.WisdomVertxServer - Starting the vert.x server
+13:11:42.799 14982 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Wisdom is going to serve HTTP requests on port 9000.
+13:11:42.816 14999 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering JVM metrics
+13:11:42.872 15055 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering HTTP metrics
+13:11:42.902 15085 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Initializing Metrics JMX reporting
+13:11:42.922 15105 [[iPOJO] pool-1-thread-1] INFO  o.w.m.e.d.DashboardExtension - Registering the metric registry as service
+13:11:42.955 15138 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.executors.ExecutorExtension@21b5160a
+13:11:43.046 15229 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@3d465a05
+13:11:43.108 15291 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.monitor.extensions.terminal.WisitShellController@356a5ddc
+13:11:43.233 15416 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.AssetController@2893f469
+13:11:43.342 15525 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@35a1e5c5 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:43.353 15536 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-2.1.1.jar : jquery-2.1.1
+13:11:43.416 15599 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/jquery-2.1.1/jquery/2.1.1
+13:11:43.432 15615 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in handlebars-2.0.0-1.jar : handlebars-2.0.0-1
+13:11:43.467 15650 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - handlebars unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/handlebars-2.0.0-1/handlebars/2.0.0-1
+13:11:43.480 15663 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in bootstrap-3.3.1.jar : bootstrap-3.3.1
+13:11:43.607 15790 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - bootstrap unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/bootstrap-3.3.1/bootstrap/3.3.1
+13:11:43.632 15815 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in jquery-mousewheel-3.1.11.jar : jquery-mousewheel-3.1.11
+13:11:43.637 15820 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - jquery-mousewheel unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/jquery-mousewheel-3.1.11/jquery-mousewheel/3.1.11
+13:11:43.640 15823 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in momentjs-2.8.3.jar : momentjs-2.8.3
+13:11:43.695 15878 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - momentjs unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/momentjs-2.8.3/momentjs/2.8.3
+13:11:43.706 15889 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - Web Library found in tablesorter-2.17.8.jar : tablesorter-2.17.8
+13:11:43.817 16000 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.resources.WebJarDeployer - tablesorter unpacked to /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/chameleon-cache/bundle56/data/webjars/tablesorter-2.17.8/tablesorter/2.17.8
+13:11:43.819 16002 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@35a1e5c5 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:43.820 16003 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@35a1e5c5 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:43.820 16003 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@35a1e5c5 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:43.821 16004 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer org.wisdom.resources.WebJarDeployer@35a1e5c5 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:43.831 16014 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from org.wisdom.resources.WebJarController@78fec463
+13:11:43.971 16154 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.dashboard.servlet.SimulatorMainPage@75a93ac3
+13:11:44.033 16216 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.dashboard.servlet.SimulatorMap@657cfeed
+13:11:44.074 16257 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.ClockREST@67078099
+13:11:44.177 16360 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.iCasaREST@30cf69b7
+13:11:44.624 16807 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.PersonREST@6d33dccd
+13:11:44.672 16855 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.SimulationREST@743ce341
+13:11:45.158 17341 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.ScriptPlayerREST@5cdde8eb
+13:11:45.283 17466 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@79eefc2f for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:45.284 17467 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@79eefc2f for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:45.284 17467 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@79eefc2f for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:45.335 17518 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@79eefc2f for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:45.335 17518 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.icasa.simulator.script.executor.impl.ScriptExecutorImpl@79eefc2f for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:45.478 17661 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  Scheduled Runnable 1019
+13:11:45.516 17699 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  Scheduled Runnable 1021
+13:11:45.540 17723 [[iPOJO] pool-1-thread-1] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - The dimension service is starting
+13:11:45.589 17772 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.DeviceREST@47d386c3
+13:11:45.622 17805 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.EventBroadcast@5a8eeb26
+13:11:45.683 17866 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from fr.liglab.adele.icasa.remote.wisdom.impl.ZoneREST@10334270
+13:11:45.812 17995 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@3957a221 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/runtime.
+13:11:45.813 17996 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@3957a221 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications.
+13:11:45.813 17996 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@3957a221 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/scripts.
+13:11:45.814 17997 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@3957a221 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/conf.
+13:11:45.814 17997 [[iPOJO] pool-1-thread-1] INFO  o.o.c.c.activators.DirectoryMonitor - Opening deployer fr.liglab.adele.common.dp.chameleon.DPFileInstaller@3957a221 for directory /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/templates.
+13:11:45.839 18022 [[iPOJO] pool-1-thread-1] INFO  org.wisdom.router.RequestRouter - Adding routes from de.uni.mannheim.adaptation.icasa.LocalAdaptationAgent@ebb49b0
+13:11:59.474 31657 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - New web socket connection org.vertx.java.core.http.impl.DefaultServerWebSocket@1f6eadc1, /icasa/websocket/event
+13:11:59.476 31659 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Adding web socket on /icasa/websocket/event bound to org.wisdom.framework.vertx.Socket@1f6eadc1
+13:12:04.176 36359 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.176 36359 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.179 36362 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.181 36364 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.181 36364 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.185 36368 [wisdom-system-akka.actor.default-dispatcher-2] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - Update the zone Outside_Area area = 12.637688 m2 ; volume = 31.670047 m3
+13:12:04.200 36383 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.200 36383 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.203 36386 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.203 36386 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.203 36386 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.204 36387 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.204 36387 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.204 36387 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.205 36388 [wisdom-system-akka.actor.default-dispatcher-2] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - Update the zone Play_Area area = 10.035985 m2 ; volume = 25.150179 m3
+13:12:04.209 36392 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.210 36393 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.210 36393 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.211 36394 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.211 36394 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.211 36394 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.211 36394 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.212 36395 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.212 36395 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.212 36395 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.212 36395 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.213 36396 [wisdom-system-akka.actor.default-dispatcher-2] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - Update the zone Dining_Area area = 13.050464 m2 ; volume = 32.704463 m3
+13:12:04.219 36402 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.233 36416 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.233 36416 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.233 36416 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.234 36417 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.234 36417 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.234 36417 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.235 36418 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.235 36418 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.235 36418 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.235 36418 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.236 36419 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.236 36419 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.237 36420 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.237 36420 [wisdom-system-akka.actor.default-dispatcher-2] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - Update the zone Cloakroom area = 7.467600 m2 ; volume = 18.713807 m3
+13:12:04.345 36528 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.346 36529 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.472 36655 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.472 36655 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.530 36713 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.531 36714 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.599 36782 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.599 36782 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.655 36838 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.656 36839 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.715 36898 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.715 36898 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.811 36994 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.812 36995 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.908 37091 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:04.908 37091 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.002 37185 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.003 37186 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.082 37265 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.084 37267 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.173 37356 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.173 37356 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.245 37428 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:05.247 37430 [wisdom-system-akka.actor.default-dispatcher-2] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.737 39920 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.738 39921 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.742 39925 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.743 39926 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.744 39927 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.744 39927 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.745 39928 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:07.745 39928 [wisdom-system-scheduler-0] INFO  o.o.c.s.x.SharedPreferencesServiceImpl - Returning existing prefs Platform-: org.ow2.chameleon.sharedprefs.xml.SharedPreferencesImpl@67e19f4c
+13:12:50.432 82615 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from de.uni.mannheim.adaptation.icasa.LocalAdaptationAgent@ebb49b0
+13:12:50.903 83086 [wisdom-system-scheduler-1] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [SimulationManager-0] The dependency is not optional, however no service object can be injected in manager -> fr.liglab.adele.icasa.ContextManager
+13:12:50.979 83162 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasa.PresenceSensor-PresenceSensor-1] The dependency is not optional, however no service object can be injected in manager -> fr.liglab.adele.icasa.simulator.SimulationManager
+13:12:51.066 83249 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasa.PresenceSensor-PresenceSensor-2] The dependency is not optional, however no service object can be injected in manager -> fr.liglab.adele.icasa.simulator.SimulationManager
+13:12:51.154 83337 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasa.PresenceSensor-PresenceSensor-3] The dependency is not optional, however no service object can be injected in manager -> fr.liglab.adele.icasa.simulator.SimulationManager
+13:12:51.240 83423 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasa.PresenceSensor-PresenceSensor-4] The dependency is not optional, however no service object can be injected in manager -> fr.liglab.adele.icasa.simulator.SimulationManager
+13:12:51.338 83521 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [ICasaTrackingInterceptor-0] The dependency is not optional, however no service object can be injected in contextManager -> fr.liglab.adele.icasa.ContextManager
+13:12:51.356 83539 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.PersonREST@6d33dccd
+13:12:51.390 83573 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [fr.liglab.adele.icasa.simulator.remote.wisdom.impl.SimulationEventBroadcast-0] The dependency is not optional, however no service object can be injected in _simulMgr -> fr.liglab.adele.icasa.simulator.SimulationManager
+13:12:51.408 83591 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.SimulationREST@743ce341
+13:12:51.672 83855 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [electricity-model-0] The dependency is not optional, however no service object can be injected in _contextMgr -> fr.liglab.adele.icasa.ContextManager
+13:12:51.685 83868 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [illuminance-model-0] The dependency is not optional, however no service object can be injected in _contextMgr -> fr.liglab.adele.icasa.ContextManager
+13:12:51.700 83883 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.ScriptPlayerREST@5cdde8eb
+13:12:51.761 83944 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [temperature-model-0] The dependency is not optional, however no service object can be injected in _contextMgr -> fr.liglab.adele.icasa.ContextManager
+13:12:51.770 83953 [FelixStartLevel] INFO  f.l.a.i.s.s.i.SchedulerTechnicalService -  UnScheduled Runnable 1021
+13:12:51.783 83966 [FelixStartLevel] INFO  f.l.a.i.s.z.d.c.i.ZoneDimensionImpl - The dimension service is stopping
+13:12:51.796 83979 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.DeviceREST@47d386c3
+13:12:51.808 83991 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.EventBroadcast@5a8eeb26
+13:12:51.817 84000 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [fr.liglab.adele.icasa.remote.wisdom.impl.EventBroadcast-0] The dependency is not optional, however no service object can be injected in _ctxMgr -> fr.liglab.adele.icasa.ContextManager
+13:12:51.827 84010 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.ZoneREST@10334270
+13:12:51.979 84162 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.ClockREST@67078099
+13:12:52.011 84194 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.remote.wisdom.impl.iCasaREST@30cf69b7
+13:12:52.091 84274 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.dashboard.servlet.SimulatorMainPage@75a93ac3
+13:12:52.107 84290 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.dashboard.servlet.SimulatorMap@657cfeed
+13:12:52.148 84331 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.dashboard.DashboardExtension@3d465a05
+13:12:52.168 84351 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.executors.ExecutorExtension@21b5160a
+13:12:52.208 84391 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.terminal.WisitShellController@356a5ddc
+13:12:52.238 84421 [FelixStartLevel] INFO  o.w.f.vertx.WisdomVertxServer - Stopping the vert.x server
+13:12:52.240 84423 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WebSocketHandler - Web Socket closed org.vertx.java.core.http.impl.DefaultServerWebSocket@1f6eadc1, /icasa/websocket/event
+13:12:52.241 84424 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - Removing web socket on /icasa/websocket/event bound to /icasa/websocket/event
+13:12:52.255 84438 [vert.x-eventloop-thread-0] INFO  o.w.f.vertx.WisdomVertxServer - The HTTP server has been stopped
+13:12:52.259 84442 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetController@2893f469
+13:12:52.272 84455 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.WebJarController@78fec463
+13:12:52.399 84582 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [iCasaPreferences-0] The dependency is not optional, however no service object can be injected in preferenceService -> org.ow2.chameleon.sharedprefs.SharedPreferencesService
+13:12:52.412 84595 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.MonitorCenter@3d64ca50
+13:12:52.418 84601 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module org.wisdom.monitor.service.MonitorExtension
+13:12:52.440 84623 [FelixStartLevel] INFO  o.w.c.jackson.JacksonSingleton - Removing Jackson module ManagedExecutorService Module
+13:12:52.449 84632 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.ipojo.IPOJOController@213e6eab
+13:12:52.465 84648 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.logger.LoggerExtension@67a577b1
+13:12:52.482 84665 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.BundleMonitorExtension@2b284b6e
+13:12:52.499 84682 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.osgi.ServiceMonitorExtension@19d52169
+13:12:52.538 84721 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.ControllerExtension@681bc4fb
+13:12:52.555 84738 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.monitor.extensions.wisdom.RouterExtension@f4d08ca
+13:12:52.635 84818 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/bundles.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.669 84852 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/controllers.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.675 84858 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/dashboard.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.680 84863 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/executors.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.684 84867 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/ipojo.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.687 84870 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/layout.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.691 84874 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/loggers.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.696 84879 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/login.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.699 84882 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/routes.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.703 84886 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/services.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.707 84890 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/terminal.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:52.711 84894 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://88.0:0/templates/monitor/tiles.thl.html from org.wisdom.framework.wisdom.monitor
+13:12:53.612 85795 [FelixStartLevel] INFO  o.w.t.t.tracker.TemplateTracker - Thymeleaf template deleted for bundle://56.0:0/templates/assets/list.thl.html from org.wisdom-framework.resource-controller
+13:12:53.614 85797 [FelixStartLevel] WARN  o.o.u.log.impl.osgi.LoggerService - [WARNING]  : [org.wisdom.template.thymeleaf.tracker.TemplateTracker-0] The dependency is not optional, however no service object can be injected in engine -> org.wisdom.template.thymeleaf.ThymeleafTemplateCollector
+13:12:53.626 85809 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from org.wisdom.resources.AssetsSingleton@76b324d5
+13:12:55.029 87212 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.simulator.remote.wisdom.impl.RemoteShell@10d2e94a
+13:12:55.088 87271 [FelixStartLevel] INFO  o.o.u.log.impl.osgi.LoggerService - The RoseMachine server1 has been stoped
+13:12:55.103 87286 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.application.remote.ApplicationREST@4cdca4a3
+13:12:55.253 87436 [FelixStartLevel] INFO  org.wisdom.router.RequestRouter - Removing routes from fr.liglab.adele.icasa.frontend.services.rest.MapRemoteServiceImpl@8f49be4
+13:12:55.491 87674 [FelixStartLevel] INFO  o.o.u.log.impl.osgi.LoggerService - RoSe.configurator is stopping
+13:12:56.282 88465 [FelixStartLevel] WARN  o.o.c.core.utils.FrameworkManager - Shelbie system Service leaving - shutting down sequence detected
+13:12:56.283 88466 [FelixStartLevel] INFO  org.ow2.chameleon - Stopping Chameleon
+13:12:56.287 88470 [FelixStartLevel] DEBUG o.o.c.c.activators.DirectoryMonitor - Stopping file monitoring of /Users/alexandrahofmann/EclipseWorkspaceUni/iCasa-distribution/applications
+13:12:58.014 90197 [FelixStartLevel] DEBUG o.o.c.c.activators.DirectoryMonitor - File monitoring stopped
+13:12:59.022 91205 [FelixStartLevel] INFO  org.ow2.chameleon - Chameleon stopped
+13:12:59.134 91317 [Thread-0] INFO  org.ow2.chameleon - Stopping Chameleon
+13:12:59.147 91330 [Thread-0] INFO  org.ow2.chameleon - Chameleon stopped
