@@ -29,34 +29,34 @@
 	
 	<!-- Device Section -->
 
-	<create-device id="PresenceSensor-1" type="iCasa.PresenceSensor" />
-	<move-device-zone deviceId="PresenceSensor-1" zoneId="Outside_Area" />
-	<create-device id="Siren-1" type="iCasa.Siren" />
-	<move-device-zone deviceId="Siren-1" zoneId="Outside_Area" />
-	<create-device id="Sprinkler-1" type="iCasa.Sprinkler" />
-	<move-device-zone deviceId="Sprinkler-1" zoneId="Outside_Area" />
+	<create-device id="PresenceSensor-Outside_Area" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-Outside_Area" zoneId="Outside_Area" />
+	<create-device id="Siren-Outside_Area" type="iCasa.Siren" />
+	<move-device-zone deviceId="Siren-Outside_Area" zoneId="Outside_Area" />
+	<create-device id="Sprinkler-Outside_Area" type="iCasa.Sprinkler" />
+	<move-device-zone deviceId="Sprinkler-Outside_Area" zoneId="Outside_Area" />
 
 	
-	<create-device id="PresenceSensor-2" type="iCasa.PresenceSensor" />
-	<move-device-zone deviceId="PresenceSensor-2" zoneId="Play_Area" />
-	<create-device id="Heater-2" type="iCasa.Heater" />
-	<move-device-zone deviceId="Heater-2" zoneId="Play_Area" />
-	<create-device id="DimmerLight-2" type="iCasa.DimmerLight" />
-	<move-device-zone deviceId="DimmerLight-2" zoneId="Play_Area" />
+	<create-device id="PresenceSensor-Play_Area" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-Play_Area" zoneId="Play_Area" />
+	<create-device id="Heater-Play_Area" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-Play_Area" zoneId="Play_Area" />
+	<create-device id="DimmerLight-Play_Area" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-Play_Area" zoneId="Play_Area" />
 
-	<create-device id="PresenceSensor-3" type="iCasa.PresenceSensor" />
-	<move-device-zone deviceId="PresenceSensor-3" zoneId="Dining_Area" />
-	<create-device id="Heater-3" type="iCasa.Heater" />
-	<move-device-zone deviceId="Heater-3" zoneId="Dining_Area" />
-	<create-device id="DimmerLight-3" type="iCasa.DimmerLight" />
-	<move-device-zone deviceId="DimmerLight-3" zoneId="Dining_Area" />
+	<create-device id="PresenceSensor-Dining_Area" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-Dining_Area" zoneId="Dining_Area" />
+	<create-device id="Heater-Dining_Area" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-Dining_Area" zoneId="Dining_Area" />
+	<create-device id="DimmerLight-Dining_Area" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-Dining_Area" zoneId="Dining_Area" />
 	
-	<create-device id="PresenceSensor-4" type="iCasa.PresenceSensor" />
-	<move-device-zone deviceId="PresenceSensor-4" zoneId="Cloakroom" />
-	<create-device id="Heater-4" type="iCasa.Heater" />
-	<move-device-zone deviceId="Heater-4" zoneId="Cloakroom" />
-	<create-device id="DimmerLight-4" type="iCasa.DimmerLight" />
-	<move-device-zone deviceId="DimmerLight-4" zoneId="Cloakroom" />
+	<create-device id="PresenceSensor-Cloakroom" type="iCasa.PresenceSensor" />
+	<move-device-zone deviceId="PresenceSensor-Cloakroom" zoneId="Cloakroom" />
+	<create-device id="Heater-Cloakroom" type="iCasa.Heater" />
+	<move-device-zone deviceId="Heater-Cloakroom" zoneId="Cloakroom" />
+	<create-device id="DimmerLight-Cloakroom" type="iCasa.DimmerLight" />
+	<move-device-zone deviceId="DimmerLight-Cloakroom" zoneId="Cloakroom" />
 
 
 	<!-- Person Section -->
