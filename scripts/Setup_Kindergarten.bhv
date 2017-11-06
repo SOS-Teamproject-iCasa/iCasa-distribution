@@ -31,6 +31,8 @@
 
 	<create-device id="PresenceSensor-Outside_Area" type="iCasa.PresenceSensor" />
 	<move-device-zone deviceId="PresenceSensor-Outside_Area" zoneId="Outside_Area" />
+	<create-device id="FloodSensor-Outside_Area" type="iCasa.FloodSensor" />
+	<move-device-zone deviceId="FloodSensor-Outside_Area" zoneId="Outside_Area" />
 	<create-device id="Siren-Outside_Area" type="iCasa.Siren" />
 	<move-device-zone deviceId="Siren-Outside_Area" zoneId="Outside_Area" />
 	<create-device id="Sprinkler-Outside_Area" type="iCasa.Sprinkler" />
@@ -39,6 +41,10 @@
 	
 	<create-device id="PresenceSensor-Play_Area" type="iCasa.PresenceSensor" />
 	<move-device-zone deviceId="PresenceSensor-Play_Area" zoneId="Play_Area" />
+	<create-device id="Thermometer-Play_Area" type="iCasa.Thermometer" />
+	<move-device-zone deviceId="Thermometer-Play_Area" zoneId="Play_Area" />
+	<create-device id="Photometer-Play_Area" type="iCasa.Photometer" />
+	<move-device-zone deviceId="Photometer-Play_Area" zoneId="Play_Area" />
 	<create-device id="Heater-Play_Area" type="iCasa.Heater" />
 	<move-device-zone deviceId="Heater-Play_Area" zoneId="Play_Area" />
 	<create-device id="DimmerLight-Play_Area" type="iCasa.DimmerLight" />
@@ -46,6 +52,10 @@
 
 	<create-device id="PresenceSensor-Dining_Area" type="iCasa.PresenceSensor" />
 	<move-device-zone deviceId="PresenceSensor-Dining_Area" zoneId="Dining_Area" />
+	<create-device id="Thermometer-Dining_Area" type="iCasa.Thermometer" />
+	<move-device-zone deviceId="Thermometer-Dining_Area" zoneId="Dining_Area" />
+	<create-device id="Photometer-Dining_Area" type="iCasa.Photometer" />
+	<move-device-zone deviceId="Photometer-Dining_Area" zoneId="Dining_Area" />
 	<create-device id="Heater-Dining_Area" type="iCasa.Heater" />
 	<move-device-zone deviceId="Heater-Dining_Area" zoneId="Dining_Area" />
 	<create-device id="DimmerLight-Dining_Area" type="iCasa.DimmerLight" />
@@ -53,6 +63,10 @@
 	
 	<create-device id="PresenceSensor-Cloakroom" type="iCasa.PresenceSensor" />
 	<move-device-zone deviceId="PresenceSensor-Cloakroom" zoneId="Cloakroom" />
+	<create-device id="Thermometer-Cloakroom" type="iCasa.Thermometer" />
+	<move-device-zone deviceId="Thermometer-Cloakroom" zoneId="Cloakroom" />
+	<create-device id="Photometer-Cloakroom" type="iCasa.Photometer" />
+	<move-device-zone deviceId="Photometer-Cloakroom" zoneId="Cloakroom" />
 	<create-device id="Heater-Cloakroom" type="iCasa.Heater" />
 	<move-device-zone deviceId="Heater-Cloakroom" zoneId="Cloakroom" />
 	<create-device id="DimmerLight-Cloakroom" type="iCasa.DimmerLight" />
